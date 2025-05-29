@@ -17,5 +17,6 @@ jobs:
       - name: List all files
         run: ls -la
 
-      - name: Read dockerfile
-        run: cat dockerfile
+      - name: Read Dockerfile
+        run: cat Dockerfile
+
